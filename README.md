@@ -1,6 +1,6 @@
 
 # 👋 Hi, I'm Tumelo Malebane
-
+!Tumelo Malebane
 🎓 **Aspiring Software Developer** | 💻 **Tech Enthusiast** | 🤖 **AI Explorer**
 
 Welcome to my GitHub profile! I'm passionate about building impactful digital solutions through mobile and web development, and I'm currently expanding my skills in AI and automation.
