@@ -26,10 +26,10 @@ Welcome to my GitHub profile! I'm passionate about building impactful digital so
 `Java` `Python` `C++` `C#` `JavaScript` `HTML5` `CSS`
 
 **Tools & Platforms**  
-`Android Studio` `Visual Studio` `WordPress` `Firebase` `SQL` `Microsoft Access`
+`Android Studio` `Visual Studio` `WordPress` `Supabase` `SQL` `Microsoft Access`
 
 **AI & Automation**  
-`Google AI` `ChatGPT` `Machine Learning Concepts`
+`Google AI` `AI Infrastructure` `Machine Learning Operations`
 
 ---
 
